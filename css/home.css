@@ -108,4 +108,10 @@ img {
   margin-top: 200px;
 }
 
+p.blog {
+  text-align: center;
+  font-family: Playfair Display SC, serif;
+  font-size: 4.8rem;
+}
+
 /*# sourceMappingURL=home.css.map */
