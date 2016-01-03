@@ -115,6 +115,19 @@ p.blog {
   font-family: Playfair Display SC, serif;
   font-size: 4.8rem;
   color: #404040;
+  padding-top: 80px;
+}
+
+p.social {
+  text-align: center;
+  font-family: Playfair Display SC, serif;
+  font-size: 4.8rem;
+  color: #404040;
+  padding-top: 80px;
+}
+
+.icons {
+  text-align: center;
 }
 
 /*# sourceMappingURL=home.css.map */
