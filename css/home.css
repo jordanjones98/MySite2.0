@@ -4,13 +4,13 @@ body {
 }
 
 p.title {
-  color: white;
+  color: #404040;
   font-family: Playfair Display SC, serif;
   font-size: 4.8rem;
 }
 
 p.about {
-  color: white;
+  color: #404040;
   font-family: Playfair Display SC, serif;
   font-size: 4.8rem;
   padding-top: 40px;
@@ -97,7 +97,7 @@ body {
 }
 
 b {
-  color: #404040;
+  color: white;
   font-size: 4.8rem;
 }
 
